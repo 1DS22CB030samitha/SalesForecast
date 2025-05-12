@@ -55,7 +55,8 @@ This Bank Management System is a Java-based desktop application designed to mana
 * Generate printable mini statements
 
 📷 *Sample Screenshot:*
-![Mini Statement](assets/mini_statement.png)![aa4](https://github.com/user-attachments/assets/965ab288-58e3-43fd-b0cc-4c969fe2c9b7)
+![Mini Statement](assets/mini_statement.png)![aa5](https://github.com/user-attachments/assets/367b49b8-92e9-4cee-a3de-67d97ff99c15)
+
 
 
 ---
@@ -68,7 +69,7 @@ This Bank Management System is a Java-based desktop application designed to mana
 
 📷 *Sample Screenshot:*
 ![Loan Page](assets/loan_page.png)
-![aa5](https://github.com/user-attachments/assets/367b49b8-92e9-4cee-a3de-67d97ff99c15)
+![aa4](https://github.com/user-attachments/assets/965ab288-58e3-43fd-b0cc-4c969fe2c9b7)
 
 ---
 
@@ -122,7 +123,7 @@ BankManagementSystem/
 ## 👨‍💻 Developed By
 
 **Mogaveer Samitha**
-Final-year student, Computer Science & Business Systems
+ Computer Science & Business Systems
 📍 Bengaluru, India
 🌐 [Portfolio Website](coming soon......)
 
